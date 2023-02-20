@@ -6,14 +6,27 @@ Check out [my little blog](https://maprys.net) if you want to read words I've
 written.
 
 I've been writing [Ruby][rubylang] and [Ruby on Rails][ruby-on-rails] for many
-years. As a result that's what I'm most comfortable with.
+years. As a result that's what I'm most comfortable with. [Python][pythonlang]
+is a close second.
+
+[rubylang]: https://www.ruby-lang.org/en/
+[ruby-on-rails]: https://rubyonrails.org/
+[pythonlang]: https://www.python.org/
+
+Enabling static analysis tools is one of the first things I include for any new
+project. Using style, analysis, metrics, and code-smell scanners are
+monumentally helpful to building readable software that's easy to maintain.
+Some of my favorites are [RuboCop][rubocop], [Bundler Audit][bundler-audit],
+and more recently [RubyCritic][rubycritic].
+
+[rubocop]: https://rubocop.org/
+[bundler-audit]: https://github.com/rubysec/bundler-audit
+[rubycritic]: https://github.com/whitesmith/rubycritic
 
 More recently I've began taking an interest in lower level languages like
 [C][c-lang] and [Zig][ziglang], but no cool projects have come out of those
 explorations yet.
 
-[rubylang]: https://www.ruby-lang.org/en/
-[ruby-on-rails]: https://rubyonrails.org/
 [c-lang]: https://www.open-std.org/jtc1/sc22/wg14/
 [ziglang]: https://ziglang.org/
 
