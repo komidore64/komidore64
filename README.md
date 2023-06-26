@@ -43,3 +43,9 @@ explorations yet.
 - [katello](https://github.com/Katello/katello)
 - [foreman-infra](https://github.com/theforeman/foreman-infra)
 - [obal](https://github.com/theforeman/obal)
+
+---
+
+[![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=komidore64&theme=dracula&show_icons=true&hide=stars&include_all_commits=true)](https://github.com/komidore64)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=komidore64&theme=dracula)](https://github.com/komidore64)
