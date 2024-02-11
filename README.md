@@ -13,16 +13,6 @@ is a close second.
 [ruby-on-rails]: https://rubyonrails.org/
 [pythonlang]: https://www.python.org/
 
-Enabling static analysis tools is one of the first things I include for any new
-project. Using style, analysis, metrics, and code-smell scanners are
-monumentally helpful to building readable software that's easy to maintain.
-Some of my favorites are [RuboCop][rubocop], [Bundler Audit][bundler-audit],
-and more recently [RubyCritic][rubycritic].
-
-[rubocop]: https://rubocop.org/
-[bundler-audit]: https://github.com/rubysec/bundler-audit
-[rubycritic]: https://github.com/whitesmith/rubycritic
-
 More recently I've began taking an interest in lower level languages like
 [C][c-lang] and [Zig][ziglang], but no cool projects have come out of those
 explorations yet.
