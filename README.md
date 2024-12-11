@@ -5,9 +5,6 @@ Hi, I'm Adam.
 Check out [my little blog](https://maprys.net) if you want to read words I've
 written.
 
-These days I'm more active on [SourceHut](https://sr.ht/~komidore64) than
-GitHub.
-
 ## Contributed Projects
 
 - [hammer-cli](https://github.com/theforeman/hammer-cli)
